@@ -1,0 +1,22 @@
+(1)	A	Right
+(2)	C	Wrong
+(3)	B	Wrong
+(4)	D	Wrong
+(5)	A	Wrong
+(6)	A	Wrong
+(7)	A	Wrong
+(8)	A	Wrong
+(9)	A	Wrong
+(10)	A	Wrong
+(11)	A	Wrong
+(12)	A	Wrong
+(13)	A	Right
+(14)	A	Right
+(15)	A	Wrong
+(16)	A	Wrong
+(17)	A	Right
+(18)	A	Wrong
+(19)	A	Wrong
+(20)	A	Right
+
+Marks obtained are: 5 / 21
